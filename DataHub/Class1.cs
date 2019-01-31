@@ -8,5 +8,6 @@ namespace DataHub
 {
     public class Class1
     {
+        // child test
     }
 }
